@@ -1,32 +1,32 @@
 - title: Gallery
   url: media/
   excerpt: ""
-  images: som.jpg
+  image: som.jpg
 
 - title: Blog
   url: articles/
   excerpt: ""
-  images: blog.jpg
+  image: blog.jpg
 
 - title: Service
   url: howtoorder/
   excerpt: ""
-  images: ser.jpg
+  image: ser.jpg
 
 - title: Order 
   url: service/
   excerpt: ""
-  images: paint.jpg
+  image: paint.jpg
 
 
 - title: Payment
   url: payment/
   excerpt: ""
-  images: payment.jpg
+  image: payment.jpg
 
 
 
 - title: Contact 
   url: contact/
   excerpt: ""
-  images: brush.jpg
+  image: brush.jpg
