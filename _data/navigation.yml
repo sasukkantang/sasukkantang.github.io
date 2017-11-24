@@ -1,6 +1,32 @@
-# Site navigation links
+- title: Gallery
+  url: media/
+  excerpt: ""
+  image: som.jpg
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Blog
+  url: articles/
+  excerpt: ""
+  image: blog.jpg
+
+- title: Service
+  url: howtoorder/
+  excerpt: ""
+  image: ser.jpg
+
+- title: Order 
+  url: service/
+  excerpt: ""
+  image: paint.jpg
+
+
+- title: Payment
+  url: payment/
+  excerpt: ""
+  image: payment.jpg
+
+
+
+- title: Contact 
+  url: contact/
+  excerpt: ""
+  image: brush.jpg
