@@ -1,5 +1,5 @@
 ---
-layout: howtoorder
+layout: archive
 title: "How to order"
 date: 
 modified:
