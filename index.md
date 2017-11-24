@@ -4,6 +4,9 @@ permalink: /
 title: "Latest Posts"
 ---
 
+<div class="wrap" style="margin-top:3%">
+
+
 <div class="titles">
 {% for post in site.categories.media limit:8 %}
   {% include post-grid.html %}
