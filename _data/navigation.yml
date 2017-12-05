@@ -1,32 +1,21 @@
-- title: Gallery
-  url: media/
-  excerpt: ""
-  image: som.jpg
+# Site navigation links
 
-- title: Blog
-  url: articles/
-  excerpt: ""
-  image: blog.jpg
+- title: Getting Started
+  url: /getting-started/
+  excerpt: "Everything you need to know to get started with Skinny Bones and Jekyll."
+  image: 400x250.gif
 
-- title: Service
-  url: howtoorder/
-  excerpt: ""
-  image: ser.jpg
+- title: Sample Articles
+  url: /articles/
+  excerpt: "Examples of long form posts."
+  image: 400x250.gif
 
-- title: Order 
-  url: service/
-  excerpt: ""
-  image: paint.jpg
+- title: Media
+  url: /media/
+  excerpt: "Examples of media posts perfect for showcasing work, photographs, etc."
+  image: 400x250.gif
 
-
-- title: Payment
-  url: payment/
-  excerpt: ""
-  image: payment.jpg
-
-
-
-- title: Contact 
-  url: contact/
-  excerpt: ""
-  image: brush.jpg
+- title: About
+  url: /about/
+  excerpt: "All about Skinny Bones for Jekyll."
+  image: 400x250.gif
